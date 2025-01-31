@@ -1,10 +1,10 @@
 # CEH v13 Exam Preparation - Hands-on Labs Repository
 
-#Overview
+# Overview
 
 Welcome to the CEH v13 Exam Preparation - Hands-on Labs Repository! This repository is designed to provide a comprehensive, practical learning experience for individuals preparing for the Certified Ethical Hacker (CEH) v13 certification.
 
-#Purpose
+# Purpose
 
 This repository contains a collection of step-by-step hands-on labs that cover key ethical hacking techniques, methodologies, and tools required for the CEH v13 exam. Each lab is structured with detailed instructions, including:
 
@@ -33,30 +33,50 @@ This repository is useful for:
 This repository covers all essential CEH v13 labs and you will learn about the most powerful and latest hacking techniques, categorized into four phases.
 
 Phase # 1
+
 • Footprinting & Reconnaissance
+
 • Scanning Networks
+
 • Enumeration
+
 • Vulnerability Analysis
 
+
 Phase # 2
+
 • System Hacking
+
 • Malware Threats
+
 • Sniffing
+
 • Social Engineering
+
 • Denial-of-Service (DoS)
 
 Phase # 3
+
 • Session Hijacking
+
 • Evading IDS, Firewalls, and Honeypots
+
 • Hacking Web Servers
+
 • Hacking Web Applications
+
 • SQL Injection
 
 Phase # 4
+
 • Hacking Wireless Networks
+
 • Hacking Mobile Applications
+
 • IoT Hacking
+
 • Cloud Computing
+
 • Cryptography
 
 Each lab provides practical exercises to help users understand real-world attack vectors and defensive strategies.
