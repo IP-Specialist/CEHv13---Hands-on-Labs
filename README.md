@@ -2,7 +2,7 @@
 
 # Overview
 
-Welcome to the CEH v13 Exam Preparation - Hands-on Labs Repository! This repository is designed to provide a comprehensive, practical learning experience for individuals preparing for the Certified Ethical Hacker (CEH) v13 certification.
+Welcome to the CEH v13 Exam Preparation - Hands-on Labs Repository! This repository is designed to provide a comprehensive, practical learning experience for individuals preparing for the Certified Ethical Hacker (CEH) v13 certification. Each lab is structured with clear instructions, required prerequisites, and supporting screenshots, ensuring an easy-to-follow learning experience. Whether you're a beginner or an experienced professional, these labs provide real-world scenarios and practical exercises to help you develop a strong foundation in ethical hacking techniques. 
 
 # Purpose
 
