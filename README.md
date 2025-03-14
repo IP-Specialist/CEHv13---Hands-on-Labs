@@ -106,4 +106,7 @@ Before performing the labs, ensure you have:
 3. Familiarity with ethical hacking tools such as Nmap, Wireshark, Metasploit, Burp Suite, etc.
 
 
+**Get it on Amazon:** https://www.amazon.com/Certified-Ethical-Hacking-CEHv13-Exam-ebook/dp/B0F199KTJ9/ref=sr_1_18
+
+
 # Start your hands-on CEH v13 journey today! Master ethical hacking with practical labs and ace your certification! 🚀
